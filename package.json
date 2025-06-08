@@ -1,12 +1,12 @@
 {
-  "name": "long-haul",
+  "name": "lukedawnsey-site",
   "version": "0.0.0",
-  "description": "A minimal, type-focused Jekyll theme. ",
+  "description": "Luke Dawnsey Website ",
   "main": "gulpfile.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Brian Maier Jr.",
+  "author": "Luke Dawnsey",
   "license": "MIT",
   "devDependencies": {
     "browser-sync": "^3.0.2",
@@ -14,10 +14,6 @@
     "gulp-autoprefixer": "8.0.0",
     "gulp-cssnano": "^2.1.2",
     "gulp-sass": "^5.1.0"
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/brianmaierjr/long-haul.git"
   },
   "keywords": [
     "jekyll",
