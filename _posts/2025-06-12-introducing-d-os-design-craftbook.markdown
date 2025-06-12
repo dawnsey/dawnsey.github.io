@@ -26,6 +26,3 @@ Whether you’re a designer, developer, or just a curious user, this craftbook o
 ---
 
 This is only the start. Expect updates, expanded guides, and tooling around this philosophy in the coming months. Your feedback and thoughts are more than welcome.
-
-— *Luke Dawnsey*  
-Creator of Dawneum  
