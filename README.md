@@ -1,0 +1,2 @@
+# My Portfolio blog
+[![Jekyll site CI](https://github.com/dawnsey/dawnsey.github.io/actions/workflows/jekyll-docker.yml/badge.svg)](https://github.com/dawnsey/dawnsey.github.io/actions/workflows/jekyll-docker.yml)
