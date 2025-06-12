@@ -23,7 +23,7 @@ You'll find here:
 
 ### 🧪 Under the hood
 
-This site runs on [Jekyll](https://jekyllrb.com/) using the [Long Haul theme](https://github.com/brianmaierjr/long-haul). They hosted on [Netlify](https://netlify.com).
+This site runs on [Jekyll](https://jekyllrb.com/) using the [Long Haul theme](https://github.com/brianmaierjr/long-haul). They hosted on GitHub Pages.
 
 Feel free to poke around, read, question, fork — or just say hi at [hello@dawnix.is-a.dev](mailto:hello@dawnix.is-a.dev).
 
